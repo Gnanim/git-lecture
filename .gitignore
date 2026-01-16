@@ -1,1 +1,3 @@
 mission/
+image/*.jpeg
+!image/Template_*.jpeg
